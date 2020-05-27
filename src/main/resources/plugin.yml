@@ -1,0 +1,10 @@
+name: Villagerevolution
+version: @version@
+main: com.drazisil.villagerevolution.Villagerevolution
+api-version: "1.13"
+authors: [Drazisil]
+description: Smarter Villagers
+commands:
+  villager:
+    description: Manage the villagers
+    usage: /villager
